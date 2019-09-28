@@ -1,5 +1,5 @@
 # BinanceData
-Advanced data analytics and tracking tool for Binance DEX
+Chain and trading data analytics for Binance DEX
 
 - General Binance DEX market overview
 - Metrics and KP tracking for Binance DEX
